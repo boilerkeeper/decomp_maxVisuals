@@ -1,0 +1,152 @@
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths cutoff from 59 to 100 over 59ms
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 70
+/eucSynths cutoff from 325 to 100 over 325ms
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths cutoff from 400 to 100 over 400ms
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/fromEuclidBeats sparse set to 0
+/fromEuclidBeats generated new beat pattern. 5 beats over 16 steps. /notSparse. pattern: 1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 79
+/eucSynths cutoff from 272 to 100 over 272ms
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths cutoff from 107 to 100 over 107ms
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths cutoff from 286 to 100 over 286ms
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths cutoff from 98 to 100 over 98ms
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/fromEuclidBeats GENERATING NEW BEAT PATTERN NEXT BAR
+/fromEuclidBeats pulses updated to 5
+/eucSynths playSynthNote 82 /eucSynths playSynthNote 82
+/fromEuclidBeats generated new beat pattern. 5 beats over 16 steps.
+/notSparse. pattern: 1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+/eucSynths playSynthNote 82/
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths cutoff from 396 to 100 over 396ms
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/fromEuclidBeats GENERATING NEW BEAT PATTERN NEXT BAR
+/fromEuclidBeats pulses updated to 5
+/fromEuclidBeats generated new beat pattern. 5 beats over 16 steps. /notSparse. pattern: 1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+/eucSynths playSynthNote 75 /eucSynths playSynthNote 75
+/eucSynths cutoff from 241 to 100 over 241ms
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths cutoff from 391 to 100 over 391ms
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 91
+/eucSynths cutoff from 297 to 100 over 297ms
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths cutoff from 442 to 100 over 442ms
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/fromEuclidBeats GENERATING NEW BEAT PATTERN NEXT BAR
+/fromEuclidBeats pulses updated to 5
+/fromEuclidBeats generated new beat pattern. 5 beats over 16 steps. /Sparse. pattern: 1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 79
+/eucSynths cutoff from 299 to 100 over 299ms
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 72
+/eucSynths cutoff from 31 to 100 over 31ms
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 72
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 87
+/eucSynths playSynthNote 87
+/eucSynths playSynthNote 70
+/eucSynths playSynthNote 87
+/eucSynths cutoff from 280 to 100 over 280ms
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 79
+/eucSynths playSynthNote 79
+/eucSynths cutoff from 357 to 100 over 357ms
+/eucSynths playSynthNote 84 
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 84
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths cutoff from 163 to 100 over 163ms
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths playSynthNote 82
+/eucSynths cutoff from 92 to 100 over 92ms
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 91
+/eucSynths cutoff from 315 to 100 over 315ms
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 91
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/eucSynths cutoff from 407 to 100 over 407ms
+/eucSynths playSynthNote 75
+/eucSynths playSynthNote 75
+/fromEuclidBeats sparse set to 0
+/fromEuclidBeats AutoBeat regeneration = 1
+/fromEuclidBeats EuclidBeats = 0
+/setAnalog 0 0 0
+/eucSynths synth 3 = 0
+/eucSynths synth 1 = 0
+/eucSynths synth 2 = 0
+/clips triggering SFX_0 

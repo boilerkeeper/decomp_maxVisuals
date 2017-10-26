@@ -1,0 +1,10 @@
+0, flags man work dream rent view . . ;
+1, night . . . . . . .;
+2, dance night . . . . . .;
+3, play dance night . . . . .;
+4, drink play dance night . . . .;
+5, chap drink play dance night . . .;
+6, voice chap drink play dance night . .;
+7, world . . . . . . .;
+8, things world . . . . . .;
+9, one two three four five six seven eight;
