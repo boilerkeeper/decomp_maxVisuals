@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 34.0, 130.0, 1843.0, 717.0 ],
+		"rect" : [ 91.0, 212.0, 1843.0, 717.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -199,9 +199,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 479.333374, 398.733429, 102.0, 22.0 ],
+					"patching_rect" : [ 479.333374, 398.733429, 95.0, 22.0 ],
 					"style" : "",
-					"text" : "expr (1080-$i1)/2"
+					"text" : "expr (800-$i1)/2"
 				}
 
 			}
@@ -251,7 +251,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 100.666664, 110.0, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -293,7 +293,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 154.5, 398.733429, 105.0, 22.0 ],
+					"patching_rect" : [ 119.5, 389.733429, 105.0, 22.0 ],
 					"style" : "",
 					"text" : "scale 0. 1. 0. 805."
 				}
